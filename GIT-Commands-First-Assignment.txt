@@ -1,0 +1,20 @@
+
+
+## Following commands are used to push the python file to repository
+
+
+git init
+
+git status
+
+git add nyt_popular_articles.py
+
+git commit -m
+
+git remote add origin https://github.com/pharrukhraxa/week_2.git
+
+git push origin mastter
+
+
+
+
